@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "la doo — shopping that feels good",
+  title: "Vision — shopping that feels good",
   description: "Shop great deals across electronics, fashion, beauty and home.",
   icons: {
     icon: "/favicon.svg",
